@@ -1,4 +1,4 @@
-# gs-1-ai-upskilling
+# Tema - gs-1-ai-upskilling
 
 ## Plataformas de upskilling e reskilling baseadas em IA
 
