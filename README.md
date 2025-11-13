@@ -4,8 +4,8 @@
 
 ### 📋 Membros do Grupo
 
-- **Carolina Teixeira Coelho** - RM: 97643
-- **Daniel Marin Palma** - RM: 551738
+- **Carolina Teixeira Coelho - RM: 97643**
+- **Daniel Marin Palma - RM: 551738**
 
 ---
 
