@@ -19,8 +19,8 @@ public class TemaController {
         info.put("tema", "Plataformas de upskilling e reskilling baseadas em IA");
         info.put("membro1", "Carolina Teixeira - RM: 97643");
         info.put("membro2", "Daniel Marin - RM: 551738");
-        info.put("descricao", "Esta plataforma utiliza Inteligência Artificial para identificar gaps de competências " +
-                "e recomendar trilhas de aprendizado personalizadas. O sistema analisa o perfil profissional do usuário, " +
+        info.put("descricao", "Esta plataforma utiliza IA para identificar gaps de competências " +
+                "e recomendar trilhas de aprendizado personalizadas. O sistema analisa o perfil usuário, " +
                 "suas habilidades atuais e objetivos de carreira para sugerir cursos, treinamentos e certificações " +
                 "alinhados com as demandas do mercado de trabalho. Através de machine learning, a plataforma adapta " +
                 "continuamente as recomendações baseadas no progresso do usuário e nas tendências emergentes do setor, " +
