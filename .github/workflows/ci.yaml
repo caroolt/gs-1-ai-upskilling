@@ -1,0 +1,24 @@
+name: Continuous Integration
+
+on:
+  push:
+    branches:
+      - feature/**
+      - release
+      - hotfix
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps: 
+            - name: Checkout
+              uses: actions/checkout@v5
+
+            - name: Application Build
+              run: mvn clean package -DskipTests
+              
+            - name: Unit Tests Executions
+              run: mvn test
+
+            - name: Build Docker Image (verification)
+              run: docker build -t gs-1-ai-upskilling .
