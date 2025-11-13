@@ -1,11 +1,11 @@
-# gs-1-ai-upskilling
+# Tema - gs-1-ai-upskilling
 
 ## Plataformas de upskilling e reskilling baseadas em IA
 
 ### 📋 Membros do Grupo
 
-- **Carolina Teixeira Coelho** - RM: 97643
-- **Daniel Marin Palma** - RM: 551738
+- **Carolina Teixeira Coelho - RM: 97643**
+- **Daniel Marin Palma - RM: 551738**
 
 ---
 
